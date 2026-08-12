@@ -1,0 +1,84 @@
+Testing Invalid input choice
+Enter Student Name: 
+Vijay
+Enter Course Name: 
+Python
+Enter Completed Topics: 
+8
+Enter Questions Solved: 
+20
+=========================================
+STUDENT PRACTICE TRACKER
+=========================================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+1
+Student Name: Vijay
+Course Name: Python
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+2
+Completed Topics: 8
+Questions Solved: 20
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+8
+Invalid choice
+please enter a value between 1 and 5.
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+3
+Enter New Completed Topics:
+5
+Topics updated succesfully.
+Total Completed Topics: 13
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+2
+Completed Topics: 13
+Questions Solved: 20
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+8
+Invalid choice
+please enter a value between 1 and 5.
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+5
+Thank you for using Student Practice Tracker
+Keep Practicing!
