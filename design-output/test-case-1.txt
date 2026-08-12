@@ -1,0 +1,79 @@
+Enter Student Name: 
+Rahul
+Enter Course Name: 
+Java
+Enter Completed Topics: 
+5
+Enter Questions Solved: 
+20
+=========================================
+STUDENT PRACTICE TRACKER
+=========================================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+1
+Student Name: Rahul
+Course Name: Java
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+2
+Completed Topics: 5
+Questions Solved: 20
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+3
+Enter New Completed Topics:
+2
+Topics updated succesfully.
+Total Completed Topics: 7
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+4
+Enter New Questions Solved: 
+10
+Questions updated successfully.
+Total Questions Solved: 30
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+2
+Completed Topics: 7
+Questions Solved: 30
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice: 
+5
+User program finished
+Thank you for using Student Practice Tracker
+Keep Practicing!
+Explain what this problem is and help me fix it: illegal start of expression @[c:\Users\srava\OneDrive\Desktop\Fourth-PRD\src\StudentApp.java:L24]
+Explain what this problem is and help me fix it: illegal start of expression 
+
